@@ -1,0 +1,4 @@
+Homepage: https://smarteoq.actudent.com/
+App: https://smarteoq.actudent.com/dashboard
+Username: admin
+Pass: 12345678
